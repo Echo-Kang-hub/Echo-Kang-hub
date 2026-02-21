@@ -40,7 +40,7 @@
 
 👀 I'm an intern in a Lab now.
 
-📒 I'm writing some notes in my main blog(https://echokang.top/) and backup blog(https://fuwari-echo-kang-blog.vercel.app/).
+📒 I'm writing some notes in my [main blog](https://echokang.top) and [backup blog](https://fuwari-echo-kang-blog.vercel.app).
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
