@@ -14,8 +14,6 @@
     <a href="https://github.com/Echo-Kang-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:weikangcwk86@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-    
-  </p>
 
 <!-- 动态访问计数器 - 增强效果 -->
   <p>
@@ -23,9 +21,6 @@
     <img src="https://img.shields.io/github/followers/Echo-Kang-hub?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
     <img src="https://img.shields.io/github/stars/Echo-Kang-hub?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
     
-  </p>
-  <p>
-  <img src="https://profile-counter.glitch.me/Echo-Kang-hub/count.svg" alt="访问计数器" />
   </p>
 </div>
 
@@ -112,11 +107,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Echo-Kang-hub&theme=radical" width="33%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Echo-Kang-hub&theme=radical" width="33%" />
 
-</div>
-  
-  <!-- 添加动态贡献热图 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Echo-Kang-hub&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
-</div>
+
 
 <!-- 项目展示部分 - 统一标题样式并对齐图标 -->
 <h2 align="center">
