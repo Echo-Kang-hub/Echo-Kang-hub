@@ -103,7 +103,7 @@
 <!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
 <div align="center">
 <!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Echo-Kang-hub&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Echo-Kang-hub&theme=radical&count_private=true" width="33%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Echo-Kang-hub&theme=radical" width="33%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Echo-Kang-hub&theme=radical" width="33%" />
 
@@ -121,8 +121,8 @@
   </a>
   <a href="https://github.com/zyh3699/doctopus">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-</div> -->
+  </a> -->
+/div>
 
 <!-- 添加项目按钮 -->
 <div align="center">
