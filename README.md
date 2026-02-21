@@ -25,7 +25,7 @@
     
   </p>
   <p>
-  <img src="https://profile-counter.glitch.me/{Echo-Kang-hub}/count.svg" alt="访问计数器" />
+  <img src="https://profile-counter.glitch.me/Echo-Kang-hub/count.svg" alt="访问计数器" />
   </p>
 </div>
 
@@ -115,7 +115,7 @@
 </div>
   
   <!-- 添加动态贡献热图 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=zyh3699&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Echo-Kang-hub&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
 </div>
 
 <!-- 项目展示部分 - 统一标题样式并对齐图标 -->
@@ -150,9 +150,9 @@
 <!-- 贡献蛇形图 - 优化显示效果 -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Echo-Kang-hub/Echo-Kang-hub/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Echo-Kang-hub/Echo-Kang-hub/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Echo-Kang-hub/Echo-Kang-hub/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 <!-- 实时贡献日历热图 -->
