@@ -32,6 +32,16 @@
   关于我
 </h2>
 
+🔭 I'm Echo_Kang, an undergraduate student from @Whu majoring in Computer Scicence and Technology.
+
+💻 I’ve learnt a litte Probability, machine/deep/reinfocement learning, Active Domain Adaptation(ADA) and MLsys.
+
+🌏 I’m currently working on LLM with RL.
+
+👀 I'm an intern in a Lab now.
+
+📒 I'm writing some notes in my main blog(https://echokang.top/) and backup blog(https://fuwari-echo-kang-blog.vercel.app/).
+
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td width="34%" valign="top">
