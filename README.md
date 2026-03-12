@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Echo_Kang&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=及时止损，渐入佳境&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Echo_Kang&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Make Better and Never Stop&descAlignY=55" />
   
   # 👋 Hello，here is Echo_Kang
   
