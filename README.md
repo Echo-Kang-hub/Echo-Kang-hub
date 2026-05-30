@@ -82,14 +82,21 @@
 
 <!-- 贡献蛇形图 - 优化显示效果 -->
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Echo-Kang-hub/Echo-Kang-hub/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Echo-Kang-hub/Echo-Kang-hub/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Echo-Kang-hub/Echo-Kang-hub/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Echo-Kang-hub/Echo-Kang-hub/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Echo-Kang-hub/Echo-Kang-hub/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Echo-Kang-hub/Echo-Kang-hub/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 
-<!-- 实时贡献日历热图 -->
-<img src="https://github-profile-summary-cards-lime.vercel.app/api/cards/profile-details?username=Echo-Kang-hub&theme=radical" width="100%" />
+  <!-- 实时贡献日历热图 (支持亮暗主题自动切换) -->
+  <picture>
+    <!-- 暗黑模式加载的主题 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards-lime.vercel.app/api/cards/profile-details?username=Echo-Kang-hub&theme=blueberry">
+    <!-- 白天模式加载的主题 -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards-lime.vercel.app/api/cards/profile-details?username=Echo-Kang-hub&theme=github">
+    <!-- 默认兜底显示 (当浏览器不支持 picture 标签时) -->
+    <img src="https://github-profile-summary-cards-lime.vercel.app/api/cards/profile-details?username=Echo-Kang-hub&theme=blueberry" width="100%" />
+  </picture>
 </div>
 
 <!-- 使用SVG制作的动态语录 -->
