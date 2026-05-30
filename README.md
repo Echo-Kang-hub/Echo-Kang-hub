@@ -33,7 +33,7 @@
 
 🌏 I’m currently working on 3D Construction.
 
-📒 I'm writing some notes and something like this in my [main blog](https://echokang.top) and [backup blog](https://fuwari-echo-kang-blog.vercel.app).
+📒 I'm writing some notes and something like this in my [blog](https://echokang.top).
 
 
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
@@ -115,6 +115,6 @@
 </h3>
 
 <p align="center">
-  <i>欢迎扩列，合作，交朋友！🤗</i>
+  <i>欢迎扩列，合作，交朋友！🤗</i><br>
   <i>Feel free to connect, collaborate, or just become friends! 🤗</i> 
 </p>
