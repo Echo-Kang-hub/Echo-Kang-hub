@@ -3,7 +3,7 @@
   # 👋 Hello, it's my pleasure to meet you!
   
   <!-- 更改轮播内容和动画速度 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;Want+to+Make+Something+Different;Want+to+Make+Friends+with+the+Different+You;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=Build+Something+Different;Meet+the+Unique+You)](https://git.io/typing-svg)
 
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
@@ -115,5 +115,6 @@
 </h3>
 
 <p align="center">
+  <i>欢迎扩列，合作，交朋友！🤗</i>
   <i>Feel free to connect, collaborate, or just become friends! 🤗</i> 
 </p>
