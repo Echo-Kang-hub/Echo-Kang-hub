@@ -33,6 +33,8 @@
 
 🌏 I’m currently working on 3D Construction.
 
+😍 Love 君の名は, 天気の子 and すずめの戸締まり with the lovely music.
+
 📒 I'm writing some notes and something like this in my [blog](https://echokang.top).
 
 
