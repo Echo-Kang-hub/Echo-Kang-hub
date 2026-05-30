@@ -42,7 +42,7 @@
   Skils and Tools
 </h2>
 
-<div align="center">
+<div>
   <!-- 使用更美观的动态技能图标 -->
   <img src="https://skillicons.dev/icons?i=python,cpp,c,linux,git,vscode,github&perline=9" />
   
