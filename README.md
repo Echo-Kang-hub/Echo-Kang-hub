@@ -32,53 +32,16 @@
   关于我
 </h2>
 
-🔭 I'm Echo_Kang, an undergraduate student from @Whu majoring in Computer Scicence and Technology.
+🔭 I'm Echo_Kang, an undergraduate student from Wuhan University majoring in Computer Scicence and Technology.
 
 💻 I’ve learnt a litte Probability, machine/deep/reinfocement learning, Active Domain Adaptation(ADA) and MLsys.
 
-🌏 I’m currently working on LLM with RL.
+🌏 I’m currently working on 3D Construction.
 
-👀 I'm an intern in a Lab now.
+👀 I want to be an intern in a Lab.
 
 📒 I'm writing some notes in my [main blog](https://echokang.top) and [backup blog](https://fuwari-echo-kang-blog.vercel.app).
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td width="34%" valign="top">
-
-> ### 🧠 大语言模型与 AI 系统
->
-> 🔬 专注于 **大型语言模型(LLMs)训练**
-> 🤖 探索 **多智能体系统架构**  
-> 🌐 开发 **AI 应用的高效推理引擎**  
-> 📊 实践 **强化学习与 RLHF**  
-> ⚡ 热衷于 **AI 模型部署与工程化实践**
-
-</td>
-<td width="34%" valign="top">
-
-> ### 🧪 深度学习与机器学习
->
-> 🔍 钻研 **计算机视觉与图像识别**技术
-> 📝 实现 **自然语言处理与文本分析**  
-> 📈 应用 **时间序列预测与异常检测**  
-> 🧮 优化 **神经网络架构与训练策略**  
-> 🔄 探索 **迁移学习与少样本学习**
-
-</td>
-<td width="35%" valign="top">
-
-> ### 💾 数据库与系统
->
-> 🛢️ 设计 **分布式数据库**架构方案  
-> 🔍 研究 **向量数据库与相似性搜索**
-> 📈 优化 **大规模数据处理**流程  
-> 🔄 开发 **高性能数据分析**平台  
-> 🌐 构建 **知识图谱与语义检索**系统
-
-</td>
-</tr>
-</table>
 
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
@@ -173,7 +136,7 @@
 </h3>
 
 <p align="center">
-  <i>让我们一起探索代码的无限可能!✨</i> 
+  <i>如果你不介意，欢迎和我成为朋友!🤗</i> 
 </p>
 
 <!-- 添加波浪动画页脚 -->
