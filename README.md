@@ -3,17 +3,17 @@
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Echo_Kang&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=及时止损，渐入佳境&descAlignY=55" />
   
-  # 👋 Hello，here is Echo_Kang
+  # 👋 Hello, it's my pleasure to meet you!
   
   <!-- 更改轮播内容和动画速度 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=Want to Make Something Different;Want to Make Friends with the Different You)](https://git.io/typing-svg)
 
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
     <p align="center">
     <a href="https://github.com/Echo-Kang-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:weikangcwk86@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+  </p>
 
 <!-- 动态访问计数器 - 增强效果 -->
   <p>
@@ -34,13 +34,9 @@
 
 🔭 I'm Echo_Kang, an undergraduate student from Wuhan University majoring in Computer Scicence and Technology.
 
-💻 I’ve learnt a litte Probability, machine/deep/reinfocement learning, Active Domain Adaptation(ADA) and MLsys.
-
 🌏 I’m currently working on 3D Construction.
 
-👀 I want to be an intern in a Lab.
-
-📒 I'm writing some notes in my [main blog](https://echokang.top) and [backup blog](https://fuwari-echo-kang-blog.vercel.app).
+📒 I'm writing some notes and something like this in my [main blog](https://echokang.top) and [backup blog](https://fuwari-echo-kang-blog.vercel.app).
 
 
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
@@ -51,7 +47,7 @@
 
 <div align="center">
   <!-- 使用更美观的动态技能图标 -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,linux,git,vscode,github&perline=9" />
   
   <!-- 添加技能动画卡片 - 改进布局 -->
   
@@ -71,8 +67,7 @@
 </h2>
   
   
-  
-  <!-- 统一卡片大小并调整比例 - 优化显示效果 -->
+<!-- 统一卡片大小并调整比例 - 优化显示效果 -->
 <!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
 <div align="center">
 <!-- 添加动态数据卡片 -->
@@ -80,13 +75,6 @@
 <img src="https://github-profile-summary-cards-lime.vercel.app/api/cards/repos-per-language?username=Echo-Kang-hub&theme=radical" width="33%" />
 <img src="https://github-profile-summary-cards-lime.vercel.app/api/cards/most-commit-language?username=Echo-Kang-hub&theme=radical" width="33%" />
 
-
-
-<!-- 项目展示部分 - 统一标题样式并对齐图标 -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  精选项目
-</h2>
 
 <!-- <div align="center">
   <a href="https://github.com/zyh3699/dream-maze">
@@ -97,17 +85,11 @@
   </a>
 /div> -->
 
-<!-- 添加项目按钮 -->
-<div align="center">
-  <a href="https://github.com/Echo-Kang-hub?tab=repositories">
-    <img src="https://img.shields.io/badge/更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" alt="查看更多项目" />
-  </a>
-</div>
 
 <!-- GitHub 活动图 - 统一标题样式并对齐图标 -->
 <h2 align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  GitHub 活动
+  GitHub Activity
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
 
