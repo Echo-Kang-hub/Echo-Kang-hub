@@ -67,21 +67,11 @@
 <!-- 统一卡片大小并调整比例 - 优化显示效果 -->
 <!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
 <div align="center">
-<!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards-lime.vercel.app/api/cards/stats?username=Echo-Kang-hub&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards-lime.vercel.app/api/cards/repos-per-language?username=Echo-Kang-hub&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards-lime.vercel.app/api/cards/most-commit-language?username=Echo-Kang-hub&theme=radical" width="33%" />
-
-
-<div align="center">
-  <a href="https://github.com/zyh3699/dream-maze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-  <a href="https://github.com/zyh3699/doctopus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-/div>
-
+  <!-- 添加动态数据卡片 -->
+  <img src="https://github-profile-summary-cards-lime.vercel.app/api/cards/stats?username=Echo-Kang-hub&theme=radical" width="33%" />
+  <img src="https://github-profile-summary-cards-lime.vercel.app/api/cards/repos-per-language?username=Echo-Kang-hub&theme=radical" width="33%" />
+  <img src="https://github-profile-summary-cards-lime.vercel.app/api/cards/most-commit-language?username=Echo-Kang-hub&theme=radical" width="33%" />
+</div>
 
 <!-- GitHub 活动图 - 统一标题样式并对齐图标 -->
 <h2>
